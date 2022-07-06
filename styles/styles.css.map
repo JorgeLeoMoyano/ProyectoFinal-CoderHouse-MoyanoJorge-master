@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,qJAAI;AACZ,AAAA,CAAC,CAAA;EACG,WAAW,EAAC,iBAAiB;EAC7B,OAAO,EAAC,CAAC;EACT,MAAM,EAAE,CAAC;CACZ;;AELD,AAAA,OAAO,CAAA;EACC,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,kBAAkB;EAC/B,KAAK,EAAC,KAAY;CAAE;;AAE5B,AAAA,MAAM,CAAA;EACF,gBAAgB,EDLF,OAAkB;CCYnC;;AARD,AAGQ,MAHF,CAEF,GAAG,CACC,IAAI,AAAA,MAAM,CAAA;EACN,KAAK,EAAC,OAAgB;EACtB,WAAW,EAAE,iBACjB;CAAC;;ACFT,AAAA,GAAG,CAAA;EACC,gBAAgB,EFRK,OAAkB;CEmB1C;;AAZD,AAIQ,GAJL,CAGC,GAAG,CACC,CAAC,CAAA;EAXL,SAAS,EAYe,IAAI;EAX5B,gBAAgB,EFDK,OAAkB;CEalC;;AANT,AAOQ,GAPL,CAGC,GAAG,CAIC,CAAC,AAAA,MAAM,CAAA;EACH,KAAK,EAAC,IAAI;EACV,WAAW,EAAE,iBACjB;CAAC;;ACnBT,AAAA,eAAe,CAAA;EACX,UAAU,EAAE,KAAK;CAChB;;AGDL,AAAA,MAAM,CAAC;EAEC,gBAAgB,ENCC,OAAkB;CMA1C",
+    "sources": [
+        "styles.scss",
+        "../components/_variables.scss",
+        "../components/_header.scss",
+        "../components/_navBar.scss",
+        "../components/_sliderImg.scss",
+        "../components/_ejemplos-boxes.scss",
+        "../components/_form.scss",
+        "../components/_footer.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
