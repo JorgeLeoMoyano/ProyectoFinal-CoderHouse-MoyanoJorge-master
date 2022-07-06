@@ -24,7 +24,7 @@ function rellenarPagina(arrayProductos){
             div.classList = "col-4 mt-3"
 
             div.innerHTML =
-            `<div class="card rounded animaciones fs-3" style="width: 18rem;">
+            `<div class="card rounded animaciones fs-3 " style="width: 18rem;">
                 <img src="${producto.imagen}" class="card-img-top" alt="${producto.id}">
                 <div class="card-body">
                         <h5 class="card-title fs-3">${producto.nombre}</h5>
